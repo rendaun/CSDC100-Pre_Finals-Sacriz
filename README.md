@@ -1,5 +1,9 @@
+![Site screenshot](https://github.com/rendaun/CSDC100-Pre_Finals-Sacriz/blob/main/assets/screenshots/Screenshot%201.png "Website")
+
 # CSDC100-Pre_Finals-Sacriz
 Repository Submission for CSDC100 Pre-Finals.
+
+## Project Title: GEN AI - Static Website
 
 ## Website Overview
  
@@ -17,7 +21,4 @@ This is an informative website about Generative Artificial Intelligence (Gen AI)
 ## GitHub Page
 
 https://rendaun.github.io/CSDC100-Pre_Finals-Sacriz/
-
-
-![Site screenshot](https://github.com/rendaun/CSDC100-Pre_Finals-Sacriz/blob/main/assets/screenshots/Screenshot%201.png "Website")
 
