@@ -19,4 +19,4 @@ This is an informative website about Generative Artificial Intelligence (Gen AI)
 https://rendaun.github.io/CSDC100-Pre_Finals-Sacriz/
 
 
-![Web ss](assets/screenshots/Screenshot 1.png)
+[![Web ss](assets/screenshots/Screenshot 1.png)]
